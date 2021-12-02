@@ -21,7 +21,7 @@
         <groupId>org.wso2</groupId>
         <artifactId>wso2</artifactId>
         <version>5</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -809,7 +809,7 @@
         <equinox.osgi.version>3.10.2.v20150203-1939</equinox.osgi.version>
         <equinox.osgi.services.version>3.4.0.v20140312-2051</equinox.osgi.services.version>
         <rs-api.version>2.0</rs-api.version>
-        <slf4j.version>1.7.5</slf4j.version>
+        <slf4j.version>1.7.32</slf4j.version>
         <slf4j.version.range>[1.7,2)</slf4j.version.range>
         <slf4j.log4j.version>1.6.0</slf4j.log4j.version>
         <gson.version>2.2.4</gson.version>
