@@ -21,7 +21,7 @@
         <groupId>org.wso2</groupId>
         <artifactId>wso2</artifactId>
         <version>5</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -799,7 +799,7 @@
         <libthrift.wso2.version>0.8.0.wso2v1</libthrift.wso2.version>
         <commons.pool.version>1.5.6.wso2v1</commons.pool.version>
         <javax.ws.rs-api.fragment.version>1.0.0.wso2v1</javax.ws.rs-api.fragment.version>
-        <feign.version>9.3.1</feign.version>
+        <feign.version>11.8</feign.version>
         <httpclient.version>4.5.2</httpclient.version>
         <httpcore.version>4.4.5</httpcore.version>
         <javax.websocket.version>1.1</javax.websocket.version>
